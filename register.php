@@ -16,7 +16,7 @@
             <input type="password" name="password" placeholder="enter your password" required>
             <input type="password" name="cpassword" placeholder="confirm your password" required>
             <input type="submit" name="submit-btn" value="register now" class="btn">
-            <p>already have an account ? <a href="login.php">log now</a></p>
+            <p>already have an account ? <a href="login.php">login now</a></p>
             
         </form>
     </section>
